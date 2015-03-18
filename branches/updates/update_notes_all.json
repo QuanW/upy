@@ -15,10 +15,10 @@
   "version_dev": "0.6.726"
  },
  "upy": {
-  "version_std": "0.7.44",
+  "version_std": "0.7.47",
   "host": [
    "all"
   ],
-  "version_dev": "0.7.44"
+  "version_dev": "0.7.47"
  }
 }
